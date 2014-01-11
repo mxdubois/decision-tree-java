@@ -29,11 +29,7 @@ class HouseRepClassifier {
             // Get data from file
             RepDataSet repsDataSet = parseDataFile(args[0]);
 
-            // Greet Adam
-            System.out.println("Based on the data you've given me," + 
-                    " I have cleverly determined that \nyou are" + 
-                    " Adam A Smith. \n");
-            System.out.println("Hello, Adam A Smith.\n" +
+            System.out.println("Hello. " +
                 "Let me classify some US House Representatives for you...\n");
 
             // Build induced tree.
