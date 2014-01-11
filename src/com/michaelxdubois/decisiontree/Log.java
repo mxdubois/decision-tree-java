@@ -2,7 +2,7 @@ package com.michaelxdubois.decisiontree;
 
 import java.util.Arrays;
 
-protected class Log {
+public class Log {
 
     public static final int ERROR = 1;
     public static final int DEBUG = ERROR * 2;    
