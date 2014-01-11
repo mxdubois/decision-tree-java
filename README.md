@@ -7,4 +7,6 @@ Installation
 ------------
 First, add the the decision tree `src` directory to your build path.
 
-Then consult the examples for usage.
+Then consult the examples directory for usage.
+
+Javadoc can be found here: http://mxdubois.github.io/decision-tree-java/javadoc/
